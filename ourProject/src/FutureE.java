@@ -7,6 +7,7 @@ public class FutureE {
   }
   public  void newFuture(){
     System.out.println("My mew FutureE!");
+    System.out.println("My mew FutureE! AGAIN!!!");
   }
 
   public void futureE_2() {
