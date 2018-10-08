@@ -1,7 +1,7 @@
 public class FutureE {
 
-public void futureE() {
-    System.out.println("Taurus");
+public void futureE(String toPrint) {
+    System.out.println(toPrint);
 }
 
 }
