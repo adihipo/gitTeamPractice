@@ -8,4 +8,8 @@ public class Main {
     System.out.println("Hello world!");
   }
 
+  public static void cheer(){
+    System.out.println("Happy Hypos & Barbie (sort of)");
+  }
+
 }
