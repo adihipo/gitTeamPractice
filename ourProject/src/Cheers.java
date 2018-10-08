@@ -1,7 +1,9 @@
 public class Cheers {
 
+  private String teamName = "Hey Barbie & the happy hipos :)";
+
   public void cheers (){
-    System.out.println("Hey Barbie & the happy hipos :)");
+    System.out.println(teamName);
   }
 
 
