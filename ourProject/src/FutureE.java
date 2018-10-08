@@ -6,7 +6,7 @@ public class FutureE {
     System.out.println(futureEe);
   }
   public  void newFuture(){
-    System.out.println("My mew FutureE!");
+    System.out.println("My mew FutureE by Greenfox!");
   }
 
   public void futureE_2() {
