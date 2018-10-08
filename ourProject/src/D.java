@@ -1,6 +1,11 @@
 public class D {
 
-  public static  void future(){
-    System.out.println("Today you find a banana in your fridge at home!");
+
+
+  public static void future() {
+
+     String a = "Adam";
+
+    System.out.println(a + "Today you find totottkaposzta!");
   }
 }
