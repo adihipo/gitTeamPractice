@@ -1,8 +1,8 @@
 public class Cheers {
 
-  private String teamName = "Hey Barbie & the happy hipos :)";
+  private String baseLanguage = "java";
 
   public void cheers (){
-    System.out.println(teamName);
+    System.out.println(baseLanguage);
   }
 }
