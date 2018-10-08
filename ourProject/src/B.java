@@ -1,6 +1,6 @@
 public class B {
 
-  public static void age() {
-    System.out.println(23);
+  public void age(int i) {
+    System.out.println(i);
   }
 }
