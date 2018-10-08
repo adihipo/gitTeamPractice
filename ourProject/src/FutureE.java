@@ -1,7 +1,9 @@
 public class FutureE {
 
-public void futureE(String toPrint) {
-    System.out.println(toPrint);
-}
+  private String futureEe = "FutureE";
+
+  public void futureE() {
+    System.out.println(futureEe);
+  }
 
 }
