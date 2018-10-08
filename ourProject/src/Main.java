@@ -2,6 +2,7 @@ public class Main {
 
   public static void main(String[] args) {
     shoutHelloWorld();
+    cheer();
   }
 
   public static void shoutHelloWorld() {
