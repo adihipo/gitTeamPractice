@@ -9,4 +9,8 @@ public class FutureE {
     System.out.println("My mew FutureE!");
   }
 
+  public void futureE_2() {
+    System.out.println(futureEe);
+  }
+
 }
