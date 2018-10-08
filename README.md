@@ -1,3 +1,0 @@
-ฅ^•ﻌ•^ฅ   ฅ^•ﻌ•^ฅ   ฅ^•ﻌ•^ฅ
-
-WELCOME TO THE GIT TEAM PRACTICE PAGEEEEEEE! WEEEEEE
