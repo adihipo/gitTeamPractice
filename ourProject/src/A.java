@@ -3,7 +3,7 @@ public class A {
   private Long dick;
 
   public void greet() {
-    System.out.println("Gyarmati Ádám");
+    System.out.println("Greetings");
   }
 
   public void shoutDick() {
