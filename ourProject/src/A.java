@@ -1,5 +1,8 @@
 public class A {
 
+  private long dick = 20;
+  private String name;
+
 
   private Long dick;
   public String morning = "Good Morning TeaPot1";
