@@ -1,13 +1,9 @@
 public class A {
 
-  private Long dick;
+  private String name
 
-  public void greet() {
-    System.out.println("Greetings");
-  }
-
-  public void shoutDick() {
-    System.out.println(dick);
+  public void greet(name) {
+    System.out.println("Greetings: " + name);
   }
 
 }

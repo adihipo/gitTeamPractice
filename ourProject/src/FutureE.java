@@ -2,8 +2,8 @@ public class FutureE {
 
   private String futureEe = "FutureE";
 
-  public void futureE() {
-    System.out.println(futureEe);
+  public void futureE(String toPrint1, String toPrint2) {
+    System.out.println(toPrint1 + " " + toPrint2);
   }
 
   public  void newFuture(){
