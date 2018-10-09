@@ -1,6 +1,10 @@
 public class Cheers {
 
 
+
+  public void cheers (){
+    System.out.println(baseLanguage + " MC ZSOLAAAAAX");
+
   private String baseLanguage = "java";
   private String languageLevel = "basic";
 
@@ -10,5 +14,5 @@ public class Cheers {
   public void cheers() {
     System.out.println(languageLevel + baseLanguage);
     System.out.println(baseLanguage1);
-  }
+
 }
