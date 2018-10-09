@@ -1,5 +1,6 @@
 public class A {
 
+
   private Long dick;
   public String morning = "Good Morning TeaPot1";
 
@@ -10,6 +11,7 @@ public class A {
 
   public void shoutDick() {
     System.out.println(dick);
+
   }
 
 }
