@@ -1,7 +1,5 @@
 public class D {
 
-
-
   public static void future() {
 
      String a = "e6";

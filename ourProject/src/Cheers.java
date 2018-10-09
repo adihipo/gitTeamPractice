@@ -8,4 +8,7 @@ public class Cheers {
     System.out.println(baseLanguage + " MC ZSOLAAAAAX");
     String baseLanguage1 = "lennazutcáááánnincsen kegyelem";
   }
+
+  private String baseLanguage1 = "lennazutcáááánnincsen kegyelem";
+
 }
