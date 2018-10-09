@@ -3,6 +3,6 @@ public class Cheers {
   private String baseLanguage = "lennazutcáááánnincsen kegyelem";
 
   public void cheers (){
-    System.out.println(baseLanguage);
+    System.out.println(baseLanguage + " MC ZSOLAAAAAX");
   }
 }
