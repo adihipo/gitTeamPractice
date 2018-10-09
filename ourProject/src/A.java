@@ -1,6 +1,6 @@
 public class A {
 
-  private long dick = 25;
+  private long dick = 30;
 
   public void greet() {
     System.out.println("Greetings");
